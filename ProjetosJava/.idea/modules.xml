@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjetosJava.iml" filepath="$PROJECT_DIR$/.idea/ProjetosJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_avc/java_avc.iml" filepath="$PROJECT_DIR$/java_avc/java_avc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_mdc/java_mdc.iml" filepath="$PROJECT_DIR$/java_mdc/java_mdc.iml" />
+    </modules>
+  </component>
+</project>
